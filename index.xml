@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source @ Uniberg</title>
+    <link>https://uniberg.github.io/</link>
+    <description>Recent content on Open Source @ Uniberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 15:32:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://uniberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://uniberg.github.io/blog/hello/</link>
+      <pubDate>Wed, 01 Nov 2017 15:32:16 +0000</pubDate>
+      
+      <guid>https://uniberg.github.io/blog/hello/</guid>
+      <description>Hello @all Here we are trying to take part in some Open Source projects, which we need for our day to day job.</description>
+    </item>
+    
+    <item>
+      <title>About Uniberg</title>
+      <link>https://uniberg.github.io/about/</link>
+      <pubDate>Wed, 01 Nov 2017 15:30:26 +0000</pubDate>
+      
+      <guid>https://uniberg.github.io/about/</guid>
+      <description>About Uniberg Uniberg is a germany based consulting company specialized in telecommunication technologies.
+More info is available at our website https://uniberg.com</description>
+    </item>
+    
+    <item>
+      <title>About Uniberg</title>
+      <link>https://uniberg.github.io/contact/</link>
+      <pubDate>Wed, 01 Nov 2017 15:30:26 +0000</pubDate>
+      
+      <guid>https://uniberg.github.io/contact/</guid>
+      <description>About Uniberg Uniberg is a germany based consulting company specialized in telecommunication.
+More info is available at our website https://uniberg.com</description>
+    </item>
+    
+  </channel>
+</rss>

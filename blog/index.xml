@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Open Source @ Uniberg</title>
+    <link>https://uniberg.github.io/blog/</link>
+    <description>Recent content in Blogs on Open Source @ Uniberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 15:32:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://uniberg.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://uniberg.github.io/blog/hello/</link>
+      <pubDate>Wed, 01 Nov 2017 15:32:16 +0000</pubDate>
+      
+      <guid>https://uniberg.github.io/blog/hello/</guid>
+      <description>Hello @all Here we are trying to take part in some Open Source projects, which we need for our day to day job.</description>
+    </item>
+    
+  </channel>
+</rss>
