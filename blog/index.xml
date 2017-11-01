@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Hello</title>
+      <title>Hello @all</title>
       <link>https://uniberg.github.io/blog/hello/</link>
       <pubDate>Wed, 01 Nov 2017 15:32:16 +0000</pubDate>
       
       <guid>https://uniberg.github.io/blog/hello/</guid>
-      <description>Hello @all Here we are trying to take part in some Open Source projects, which we need for our day to day job.</description>
+      <description>Here we are trying to take part in some Open Source projects, which we need for our day to day job.</description>
     </item>
     
   </channel>
